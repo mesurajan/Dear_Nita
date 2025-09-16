@@ -23,13 +23,13 @@
         ];
 // Define card images and messages
       const cardData = [
-            { frontImage: "Images/20.png", type: "image", quote: quotes[0] },
-            { frontImage: "Images/19.png", type: "image", quote: quotes[1] },
-            { frontImage: "Images/18.png", type: "image", quote: quotes[2] },
-            { frontImage: "Images/17.png", type: "image", quote: quotes[3] },
-            { frontImage: "Images/16.png", type: "image", quote: quotes[4] },
-            { frontImage: "Images/15.png", type: "image", quote: quotes[5] },
-            { frontImage: "Images/14.png", type: "image", quote: quotes[6] },
+            // { frontImage: "Images/20.png", type: "image", quote: quotes[0] },
+            // { frontImage: "Images/19.png", type: "image", quote: quotes[1] },
+            // { frontImage: "Images/18.png", type: "image", quote: quotes[2] },
+            // { frontImage: "Images/17.png", type: "image", quote: quotes[3] },
+            // { frontImage: "Images/16.png", type: "image", quote: quotes[4] },
+            // { frontImage: "Images/15.png", type: "image", quote: quotes[5] },
+            // { frontImage: "Images/14.png", type: "image", quote: quotes[6] },
             { frontImage: "Images/13.png", type: "image", quote: quotes[7] },
             { frontImage: "Images/12.png", type: "image", quote: quotes[8] },
             { frontImage: "Images/11.png", type: "image", quote: quotes[9] },
